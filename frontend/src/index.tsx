@@ -73,9 +73,9 @@ export default function App() {
           fontSize: "13px",
         }}
       >
-        By clicking "I Understand", you consent to the use of cookies for
-        performance and usage tracking purposes to enhance your browsing
-        experience.
+        Indem Sie auf "I Understand" klicken, stimmen Sie der Verwendung von
+        Cookies zu Leistungszwecken und zur Nutzungsnachverfolgung zu, um Ihre
+        Browsing-Erfahrung zu verbessern.
       </CookieConsent>
     </AppStateProvider>
   );
